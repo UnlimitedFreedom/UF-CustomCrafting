@@ -1,0 +1,6 @@
+
+*.jar
+
+manifest.mf
+
+dist/README.TXT
